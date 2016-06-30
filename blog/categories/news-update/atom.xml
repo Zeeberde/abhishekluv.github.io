@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: News-update | Abhishek Luv]]></title>
+  <link href="http://www.abhishekluv.in/blog/categories/news-update/atom.xml" rel="self"/>
+  <link href="http://www.abhishekluv.in/"/>
+  <updated>2016-06-30T13:55:41+05:30</updated>
+  <id>http://www.abhishekluv.in/</id>
+  <author>
+    <name><![CDATA[Abhishek Luv]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Update: I'm a Freelance ASP.NET MVC Trainer Now]]></title>
+    <link href="http://www.abhishekluv.in/blog/2016/06/30/update-im-a-freelance-trainer-now/"/>
+    <updated>2016-06-30T12:27:47+05:30</updated>
+    <id>http://www.abhishekluv.in/blog/2016/06/30/update-im-a-freelance-trainer-now</id>
+    <content type="html"><![CDATA[<p>Console.WriteLine(&ldquo;Hello! There&rdquo;);,</p>
+
+<p>Just an update. I&rsquo;m a Freelance Trainer Now.</p>
+
+<!-- more -->
+
+
+<p>From 2014 I have been working as a Freelance ASP.NET MVC Developer and also as an Online Instructor creating courses on topics like Orchard CMS, ASP.NET MVC, Source Control : Git and GitHub.</p>
+
+<p><small>Online Course Statistics</small>
+<img src="http://i.imgur.com/GSiNEEX.png" alt="" /></p>
+
+<p><small>Number of Students and Reviews</small>
+<img src="http://i.imgur.com/PBy1wuB.png" alt="" /></p>
+
+<p>I have found my passion and that is Teaching/Training and helping others learn things in a simple way.</p>
+
+<p>I am available as a Freelance Trainer(topics: ASP.NET MVC, Entity Framework and others&hellip;) for Training Centers, Institutes, Corporates across India and even Students on an individual basis.</p>
+
+<p>Please <a href="/contact-me/">connect</a> with me if you&rsquo;re looking for a Freelance ASP.NET MVC Trainer.</p>
+
+<blockquote><p>Regards</p>
+
+<p>Abhishek Luv</p></blockquote>
+]]></content>
+  </entry>
+  
+</feed>
