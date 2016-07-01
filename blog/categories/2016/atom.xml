@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 2016 | Abhishek Luv]]></title>
   <link href="http://www.abhishekluv.in/blog/categories/2016/atom.xml" rel="self"/>
   <link href="http://www.abhishekluv.in/"/>
-  <updated>2016-07-01T12:26:52+05:30</updated>
+  <updated>2016-07-01T16:19:09+05:30</updated>
   <id>http://www.abhishekluv.in/</id>
   <author>
     <name><![CDATA[Abhishek Luv]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Why Students Should Learn C# Before Learning ASP NET MVC(Video)]]></title>
+    <link href="http://www.abhishekluv.in/blog/2016/07/01/why-students-should-learn-c-number-before-learning-asp-net-mvc/"/>
+    <updated>2016-07-01T16:12:33+05:30</updated>
+    <id>http://www.abhishekluv.in/blog/2016/07/01/why-students-should-learn-c-number-before-learning-asp-net-mvc</id>
+    <content type="html"><![CDATA[<p>Why Students should Learn C# before learning ASP NET MVC?</p>
+
+<p>For more please watch the video..</p>
+
+<!-- more -->
+
+
+<p></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="9IZfBJ3hcy0" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p>Regards</p>
+
+<blockquote><p>Abhishek Luv</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Want to Be a Software Developer? Let Go Off Perfection(Video)]]></title>
@@ -950,23 +976,6 @@ int[] intArray = new int[5];
 <p>Take Care!</p>
 
 <p>Abhishek Luv</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Orchard CMS Theme Development Course Is FREE Now]]></title>
-    <link href="http://www.abhishekluv.in/blog/2016/04/08/orchard-cms-theme-development-course-is-free-now/"/>
-    <updated>2016-04-08T17:18:12+05:30</updated>
-    <id>http://www.abhishekluv.in/blog/2016/04/08/orchard-cms-theme-development-course-is-free-now</id>
-    <content type="html"><![CDATA[<p>Access to Orchard CMS Theme Development course is FREE and open to all.</p>
-
-<!-- more -->
-
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8AwaH3ssiARImeICwvOavU_Gna-Xza_7" frameborder="0" allowfullscreen></iframe>
-
 ]]></content>
   </entry>
   
