@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://www.abhishekluv.in/blog/2016/06/30/update-im-a-freelance-trainer-now/</loc>
-<lastmod>2016-06-30T12:27:47+05:30</lastmod>
+<loc>http://www.abhishekluv.in/blog/2016/07/01/want-to-be-a-web-developer-let-go-off-perfection/</loc>
+<lastmod>2016-07-01T11:54:14+05:30</lastmod>
 </url>
 <url>
-<loc>http://www.abhishekluv.in/blog/2016/05/16/learn-csharp-in-7-days-day-3/</loc>
-<lastmod>2016-05-16T11:53:18+05:30</lastmod>
+<loc>http://www.abhishekluv.in/blog/2016/06/30/update-im-a-freelance-trainer-now/</loc>
+<lastmod>2016-06-30T12:27:47+05:30</lastmod>
 </url>
 <url>
 <loc>http://www.abhishekluv.in/blog/2016/04/09/learn-csharp-in-7-days-day-2/</loc>
@@ -390,9 +390,6 @@
 <loc>http://www.abhishekluv.in/blog/categories/csharp-day2/</loc>
 </url>
 <url>
-<loc>http://www.abhishekluv.in/blog/categories/csharp-day3/</loc>
-</url>
-<url>
 <loc>http://www.abhishekluv.in/blog/categories/news-update/</loc>
 </url>
 <url>
@@ -403,6 +400,9 @@
 </url>
 <url>
 <loc>http://www.abhishekluv.in/blog/categories/entity-framework/</loc>
+</url>
+<url>
+<loc>http://www.abhishekluv.in/blog/categories/web-developer/</loc>
 </url>
 <url>
 <loc>http://www.abhishekluv.in/my-area/project1/index.html</loc>

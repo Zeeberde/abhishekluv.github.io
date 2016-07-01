@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Web-developer | Abhishek Luv]]></title>
+  <link href="http://www.abhishekluv.in/blog/categories/web-developer/atom.xml" rel="self"/>
+  <link href="http://www.abhishekluv.in/"/>
+  <updated>2016-07-01T12:26:52+05:30</updated>
+  <id>http://www.abhishekluv.in/</id>
+  <author>
+    <name><![CDATA[Abhishek Luv]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Want to Be a Software Developer? Let Go Off Perfection(Video)]]></title>
+    <link href="http://www.abhishekluv.in/blog/2016/07/01/want-to-be-a-web-developer-let-go-off-perfection/"/>
+    <updated>2016-07-01T11:54:14+05:30</updated>
+    <id>http://www.abhishekluv.in/blog/2016/07/01/want-to-be-a-web-developer-let-go-off-perfection</id>
+    <content type="html"><![CDATA[<p>Want to be a Software/Web Developer? Let go off Perfection.</p>
+
+<p>Trying to become perfect at something will only stop your progess.</p>
+
+<p>Instead you should try to develop a strong foundational knowledge about your favorite programming language or framework.</p>
+
+<p>For more please watch the video..</p>
+
+<!-- more -->
+
+
+
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="SrKauGRcRls" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p>Regards</p>
+
+<blockquote><p>Abhishek Luv</p></blockquote>
+]]></content>
+  </entry>
+  
+</feed>

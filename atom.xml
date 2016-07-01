@@ -4,13 +4,43 @@
   <title><![CDATA[Abhishek Luv]]></title>
   <link href="http://www.abhishekluv.in/atom.xml" rel="self"/>
   <link href="http://www.abhishekluv.in/"/>
-  <updated>2016-06-30T15:00:21+05:30</updated>
+  <updated>2016-07-01T12:26:52+05:30</updated>
   <id>http://www.abhishekluv.in/</id>
   <author>
     <name><![CDATA[Abhishek Luv]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Want to Be a Software Developer? Let Go Off Perfection(Video)]]></title>
+    <link href="http://www.abhishekluv.in/blog/2016/07/01/want-to-be-a-web-developer-let-go-off-perfection/"/>
+    <updated>2016-07-01T11:54:14+05:30</updated>
+    <id>http://www.abhishekluv.in/blog/2016/07/01/want-to-be-a-web-developer-let-go-off-perfection</id>
+    <content type="html"><![CDATA[<p>Want to be a Software/Web Developer? Let go off Perfection.</p>
+
+<p>Trying to become perfect at something will only stop your progess.</p>
+
+<p>Instead you should try to develop a strong foundational knowledge about your favorite programming language or framework.</p>
+
+<p>For more please watch the video..</p>
+
+<!-- more -->
+
+
+
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="SrKauGRcRls" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p>Regards</p>
+
+<blockquote><p>Abhishek Luv</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Update: I'm a Freelance ASP.NET MVC Trainer Now]]></title>
@@ -41,34 +71,6 @@
 <blockquote><p>Regards</p>
 
 <p>Abhishek Luv</p></blockquote>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Learn C# in 7 Days : Day 3]]></title>
-    <link href="http://www.abhishekluv.in/blog/2016/05/16/learn-csharp-in-7-days-day-3/"/>
-    <updated>2016-05-16T11:53:18+05:30</updated>
-    <id>http://www.abhishekluv.in/blog/2016/05/16/learn-csharp-in-7-days-day-3</id>
-    <content type="html"><![CDATA[<p>Learning C# for beginners can be little difficult in the first place. But it isn&rsquo;t that difficult.</p>
-
-<p>When starting to learn C# you should start with the basics and not get into the deep rabbit hole of it.</p>
-
-<p>This is Day 3 of Learn C# in 7 Days. Checkout <a href="http://www.abhishekluv.in/blog/2016/04/09/learn-csharp-in-7-days-day-2/">Day 2</a> before starting with Day 3.</p>
-
-<!-- more -->
-
-
-<h2>Topics we&rsquo;ll be discussing</h2>
-
-<ul>
-<li>Inheritance</li>
-<li>Overriding</li>
-<li>Abstract Class</li>
-<li>Interfaces</li>
-</ul>
-
-
-<h2>Inheritance</h2>
 ]]></content>
   </entry>
   
@@ -1273,12 +1275,13 @@ int[] intArray = new int[5];
 <noscript><pre><code>isItGlobal = &quot;variable with global scope&quot;; // this variable is global
 
 function localFunction() {
-    isItGlobal = &quot;variable with local scope&quot;; // this variable is local to the local Function
+    var isItGlobal = &quot;variable with local scope&quot;; // this variable is local to the local Function
     document.write(isItGlobal + &quot;&lt;br/&gt;&quot;);
 }
 
 document.write(isItGlobal + &quot;&lt;br/&gt;&quot;);
-localFunction();</code></pre></noscript></div>
+localFunction();
+</code></pre></noscript></div>
 
 
 <p><strong>Data Types</strong></p>
@@ -1298,9 +1301,12 @@ localFunction();</code></pre></noscript></div>
 <p>Let&rsquo;s look at some code and find out the data type of a variable (using the typeof keyword).</p>
 
 <div><script src='https://gist.github.com/12def5fc1d24314305b1.js'></script>
-<noscript><pre><code>var myVariable = &quot;I&#39;m a variable&quot;;
+<noscript><pre><code>// Let&#39;s declare 4 variable and print it on a web page
+
+var myVariable = &quot;I&#39;m a variable&quot;;
 var myVariable2 = 1234;
 var myVariable3 = true;
+var myVariable4; // we haven&#39;t assigned a value for this variable. Lets see what happens
 
 document.write(myVariable + &quot;&lt;br/&gt;&quot;);
 document.write(myVariable2 + &quot;&lt;br/&gt;&quot;);
@@ -1311,6 +1317,7 @@ document.write(myVariable3 + &quot;&lt;br/&gt;&quot;);
 document.write(&quot;myVariable is of type : &quot; + typeof myVariable + &quot;&lt;br/&gt;&quot;); 
 document.write(&quot;myVariable2 is of type : &quot; + typeof myVariable2 + &quot;&lt;br/&gt;&quot;);
 document.write(&quot;myVariable3 is of type : &quot; + typeof myVariable3 + &quot;&lt;br/&gt;&quot;);
+document.write(typeof myVariable4);
 
 // Output
 //I&#39;m a variable
@@ -1318,7 +1325,8 @@ document.write(&quot;myVariable3 is of type : &quot; + typeof myVariable3 + &quo
 //true
 //myVariable is of type : string
 //myVariable2 is of type : number
-//myVariable3 is of type : boolean</code></pre></noscript></div>
+//myVariable3 is of type : boolean
+//undefined</code></pre></noscript></div>
 
 
 <p><strong>Operators</strong></p>
