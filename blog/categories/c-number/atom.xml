@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: C# | Abhishek Luv]]></title>
+  <link href="http://www.abhishekluv.in/blog/categories/c-number/atom.xml" rel="self"/>
+  <link href="http://www.abhishekluv.in/"/>
+  <updated>2016-07-04T16:03:18+05:30</updated>
+  <id>http://www.abhishekluv.in/</id>
+  <author>
+    <name><![CDATA[Abhishek Luv]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Topics to Learn in C# Before Learning ASP.NET MVC(Video)]]></title>
+    <link href="http://www.abhishekluv.in/blog/2016/07/04/topics-to-learn-in-csharp-before-learning-asp-dot-net-mvc/"/>
+    <updated>2016-07-04T15:59:33+05:30</updated>
+    <id>http://www.abhishekluv.in/blog/2016/07/04/topics-to-learn-in-csharp-before-learning-asp-dot-net-mvc</id>
+    <content type="html"><![CDATA[<p>Topics to Learn in C# before Learning ASP.NET MVC.</p>
+
+<p>For more please watch the video..</p>
+
+<!-- more -->
+
+
+<p></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="zZEu1ZRXwms" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p>Regards</p>
+
+<blockquote><p>Abhishek Luv</p></blockquote>
+]]></content>
+  </entry>
+  
+</feed>
