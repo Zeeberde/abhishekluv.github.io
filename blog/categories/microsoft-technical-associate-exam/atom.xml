@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Microsoft-technical-associate-exam | Abhishek Luv]]></title>
+  <link href="http://www.abhishekluv.in/blog/categories/microsoft-technical-associate-exam/atom.xml" rel="self"/>
+  <link href="http://www.abhishekluv.in/"/>
+  <updated>2016-09-16T09:31:10+05:30</updated>
+  <id>http://www.abhishekluv.in/</id>
+  <author>
+    <name><![CDATA[Abhishek Luv]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[MTA Microsoft Technical Associate (Exam 98-361) Passed]]></title>
+    <link href="http://www.abhishekluv.in/blog/2016/09/11/mta-microsoft-technical-associate-exam-98-361-passed/"/>
+    <updated>2016-09-11T03:20:47+05:30</updated>
+    <id>http://www.abhishekluv.in/blog/2016/09/11/mta-microsoft-technical-associate-exam-98-361-passed</id>
+    <content type="html"><![CDATA[<p>Today, I passed the MTA Microsoft Technical Associate 98-361 Exam with 91 score.
+Giving the MTA 98-361 Exam was a great experience.</p>
+
+<!-- more -->
+
+
+<p>MTA 98-361 Exam is not compulsary, but it is a good step to get into the Certification world.</p>
+
+<p><a href="https://www.microsoft.com/en-gb/learning/mta-certification.aspx" target="blank">
+<img src="http://dwz6w0xm5nwrx.cloudfront.net/img/MTA_SoftDev_Blk-compressor.png" width="271" height="195">
+</a></p>
+
+<p>I&rsquo;ll be posting a series of blog posts about how I prepared for the MTA 98-361 exam which can help newbies who are thinking about giving this exam.</p>
+]]></content>
+  </entry>
+  
+</feed>
