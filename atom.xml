@@ -4,7 +4,7 @@
   <title><![CDATA[Abhishek Luv]]></title>
   <link href="http://www.abhishekluv.in/atom.xml" rel="self"/>
   <link href="http://www.abhishekluv.in/"/>
-  <updated>2016-09-15T11:42:18+05:30</updated>
+  <updated>2016-09-16T09:16:16+05:30</updated>
   <id>http://www.abhishekluv.in/</id>
   <author>
     <name><![CDATA[Abhishek Luv]]></name>
@@ -13,10 +13,19 @@
 
   
   <entry>
+    <title type="html"><![CDATA[MTA Microsoft Technical Associate (Exam 98-361) Passed]]></title>
+    <link href="http://www.abhishekluv.in/blog/2016/09/11/mta-microsoft-technical-associate-exam-98-361-passed/"/>
+    <updated>2016-09-11T03:20:47+05:30</updated>
+    <id>http://www.abhishekluv.in/blog/2016/09/11/mta-microsoft-technical-associate-exam-98-361-passed</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Successfully Conducted a 1 Month C# Programming Training for a Computer Institute]]></title>
-    <link href="http://www.abhishekluv.in/blog/2016/09/15/successfully-conducted-a-1-month-csharp-programming-training-for-a-computer-institute/"/>
-    <updated>2016-09-15T11:27:01+05:30</updated>
-    <id>http://www.abhishekluv.in/blog/2016/09/15/successfully-conducted-a-1-month-csharp-programming-training-for-a-computer-institute</id>
+    <link href="http://www.abhishekluv.in/blog/2016/08/26/successfully-conducted-a-1-month-csharp-programming-training-for-a-computer-institute/"/>
+    <updated>2016-08-26T11:27:01+05:30</updated>
+    <id>http://www.abhishekluv.in/blog/2016/08/26/successfully-conducted-a-1-month-csharp-programming-training-for-a-computer-institute</id>
     <content type="html"><![CDATA[<p>Last month from 25th July to 25th Aug, I successfully conducted a 1 month C# Programming Training for a computer institute.</p>
 
 <!-- more -->
@@ -1869,45 +1878,6 @@ and for more Orchard CMS tutorials subscribe to <a href="https://www.youtube.com
 
 <p>Orchard is delivered under the .NET Foundation <a href="http://www.dotnetfoundation.org/orchard">http://www.dotnetfoundation.org/orchard</a>. For more info on Orchard visit the official website <a href="http://www.orchardproject.net/">http://www.orchardproject.net/</a>
 and for more Orchard CMS tutorials subscribe to <a href="https://www.youtube.com/channel/UCAQxeMbUaKePrVE3wbNZxjg">Orchard Beginner YouTube channel.</a></p>
-
-
-<p>Stay tuned.</p>
-
-<p>Take care!</p>
-
-<p>Abhishek Luv</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Orchard Beginner Module 1 : Getting Started (Completed)]]></title>
-    <link href="http://www.abhishekluv.in/blog/2016/01/26/orchard-beginner-module-1-getting-started-completed/"/>
-    <updated>2016-01-26T13:33:24+05:30</updated>
-    <id>http://www.abhishekluv.in/blog/2016/01/26/orchard-beginner-module-1-getting-started-completed</id>
-    <content type="html"><![CDATA[<p>Orchard Beginner Module 1 : Getting Started completed.</p>
-
-<p>Orchard CMS Tutorials brought to you by Orchard Beginner <a href="http://orchardbeginner.com/">http://orchardbeginner.com/</a></p>
-
-<p><em>Note: As I had mentioned in one of my <a href="http://www.abhishekluv.in/blog/2015/12/21/plans-for-year-2016/">previous post</a> that I will be keeping track of every task I do and blog about it online.</em></p>
-
-<!-- more -->
-
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CbBuiHj0Qkg?list=PL8AwaH3ssiATad095YNAoaIxHVkoh4Yky" frameborder="0" allowfullscreen></iframe>
-
-
-
-
-<p>New to Orchard CMS?</p>
-
-
-<p>Orchard CMS is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform.</p>
-
-
-<p>Orchard is delivered under the .NET Foundation <a href="http://www.dotnetfoundation.org/orchard">http://www.dotnetfoundation.org/orchard</a>. For more info on Orchard visit the official website <a href="http://www.orchardproject.net/">http://www.orchardproject.net/</a>
-and for more Orchard CMS tutorials subscribe to <a href="https://www.youtube.com/channel/UCAQxeMbUaKePrVE3wbNZxjg">our Orchard Beginner YouTube channel</a> or bookmark Orchard Beginner website for future reference.</p>
 
 
 <p>Stay tuned.</p>
