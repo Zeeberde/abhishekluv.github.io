@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Git-training | Abhishek Luv]]></title>
+  <link href="http://www.abhishekluv.in/blog/categories/git-training/atom.xml" rel="self"/>
+  <link href="http://www.abhishekluv.in/"/>
+  <updated>2016-09-16T12:08:46+05:30</updated>
+  <id>http://www.abhishekluv.in/</id>
+  <author>
+    <name><![CDATA[Abhishek Luv]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Git &amp; Github Free Training in Hindi for Students and Professionals]]></title>
+    <link href="http://www.abhishekluv.in/blog/2014/11/21/git-and-github-free-training-in-hindi/"/>
+    <updated>2014-11-21T11:04:24+05:30</updated>
+    <id>http://www.abhishekluv.in/blog/2014/11/21/git-and-github-free-training-in-hindi</id>
+    <content type="html"><![CDATA[<p>Welcome to this course on &ldquo;Learn The Basic&rsquo;s of Git &amp; GitHub In Hindi&rdquo;.</p>
+
+<p>Note : This Free Course is in Hindi Language and Not English.</p>
+
+<!-- more -->
+
+
+<h2>What is the course about?</h2>
+
+<ul>
+<li>Learn about Git</li>
+<li>Learn about Git Command-Line Tool</li>
+<li>Learn about Msysgit &amp; Git Extensions Software</li>
+<li>Learn about Git Commands</li>
+<li>Learn about GitHub</li>
+</ul>
+
+
+<h2>What things you&rsquo;ll be learning in this course?</h2>
+
+<ul>
+<li>What is Git and GitHub</li>
+<li>Git Concepts</li>
+<li>File Management and Index</li>
+<li>Git Commands</li>
+<li>Initializing a Local Git Repository</li>
+<li>Configuring Remote Repository</li>
+<li>Adding files to a Repo</li>
+<li>Committing changes</li>
+<li>Pushing Changes to GitHub</li>
+<li>Adding a .gitignore file</li>
+<li>Creating a Branch</li>
+<li>Switching Between Branches</li>
+<li>Merging Branches</li>
+<li>Push local changes after merging</li>
+<li>Generating SSH Key for GitHub</li>
+<li>GitHub : Forks</li>
+<li>GitHub : Pull Requests</li>
+<li>GitHub : Cloning</li>
+</ul>
+
+
+<h2>Who should take this course?</h2>
+
+<ul>
+<li>College Students</li>
+<li>Computer Science Students</li>
+<li>Novice Software Developers</li>
+<li>Anybody interested in learning Git &amp; GitHub</li>
+</ul>
+
+
+<h2>What are the requirements?</h2>
+
+<ul>
+<li>Basic Knowledge of Windows PC</li>
+<li>Tech Savvy Person</li>
+</ul>
+
+
+<h2>What am I going to get from this course?</h2>
+
+<ul>
+<li>Learn about Git</li>
+<li>Learn about Git Command-Line Tool</li>
+<li>Learn about Msysgit &amp; Git Extensions Software</li>
+<li>Learn about Git Commands</li>
+<li>Learn about GitHub</li>
+</ul>
+
+
+<h2>What is the target audience?</h2>
+
+<ul>
+<li>College Students</li>
+<li>Computer Science Students</li>
+<li>Novice Software Developers</li>
+<li>Anybody interested in learning Git &amp; GitHub</li>
+</ul>
+
+
+<p><strong>Git and GitHub Course Intro</strong></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="Eue0boXiKhY" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p><strong>What is Git and GitHub</strong></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="gl5T6oWULHs" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p><strong>GitHub Registration and Creating a GitHub Repository</strong></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="6u5LtzY3VJM" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p><strong>What is a Repository, Git Object Store and Index</strong></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="2e6akJ4JCkc" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p><strong>File Management and Index</strong></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="G7A1LutWwB0" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p><strong>Installing MSysGit and Git Extension</strong></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="E8PQjD6gZfw" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p><strong>Git Basic Commands</strong></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="PqujB7J8Yhs" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p><strong>Initializing a Local Git Repository</strong></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="q-Z8zSM0blw" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p><strong>Configuring Remote Git Repository</strong></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="GYfIBiv99lI" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p><strong>Git Remote and Git Remote Remove</strong></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="CKNd_G1Tp80" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p><strong>Adding a File to the Local Repository and Git Status</strong></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="0lWkwGXcxO8" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p><strong>Removing a file from Index</strong></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="9N0vDO99xqg" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p><strong>Adding a .gitignore file</strong></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="7iR9h4Vy9q0" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p><strong>Configuring the Global Commit Author</strong></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="taj-p-mXFN4" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p><strong>Committing changes Initial Commit</strong></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="lDbSAcF-oJ4" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p><strong>Git Log Command</strong></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="U95FPEo4yM0" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p><strong>Git and GitHub Training In Hindi: Pushing Changes to GitHub</strong></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="LYwiEsXnA50" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p><strong>Git and GitHub Training In Hindi : Generating SSH Key for GitHub</strong></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="EsYHCO_0Xm0" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p><strong>Git and GitHub Training In Hindi : Create and Checkout a New Git Branch</strong></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="sMXJsVuwVQY" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p><strong>Git &amp; GitHub Training In Hindi : Merging Branches</strong></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="7YKcsMqzWck" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p><strong>Git &amp; GitHub Training In Hindi : GitHub Cloning</strong></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="FbLM4deRrUY" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p><strong>Git &amp; GitHub Training In Hindi : GitHub Fork</strong></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="2noPc0YeR5E" data-size="maxresdefault">
+</div>
+</div>
+
+
+<p><strong>Git &amp; GitHub Training In Hindi : GitHub Pull Requests</strong></p>
+
+<div class="youtube-container">
+<div class="youtube-player" data-id="yOZ22SHQ9UQ" data-size="maxresdefault">
+</div>
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>
