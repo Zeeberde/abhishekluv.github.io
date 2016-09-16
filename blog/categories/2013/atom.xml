@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 2013 | Abhishek Luv]]></title>
+  <link href="http://www.abhishekluv.in/blog/categories/2013/atom.xml" rel="self"/>
+  <link href="http://www.abhishekluv.in/"/>
+  <updated>2016-09-16T10:05:51+05:30</updated>
+  <id>http://www.abhishekluv.in/</id>
+  <author>
+    <name><![CDATA[Abhishek Luv]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Orchard CMS Tutorial for Absolute Beginners Is Live]]></title>
+    <link href="http://www.abhishekluv.in/blog/2013/12/22/orchard-cms-tutorial-for-absolute-beginners-is-live/"/>
+    <updated>2013-12-22T09:47:14+05:30</updated>
+    <id>http://www.abhishekluv.in/blog/2013/12/22/orchard-cms-tutorial-for-absolute-beginners-is-live</id>
+    <content type="html"><![CDATA[<p>WOW! Thanks to Udemy my Orchard CMS Tutorial for Absolute Beginners is Live.</p>
+
+<!-- more -->
+
+
+<p><a href="https://www.udemy.com/orchard-cms-for-absolute-beginners/">Orchard CMS Tutorial for Absolute Beginners</a></p>
+
+<h2>What is this course about?</h2>
+
+<p>Orchard CMS for Absolute Beginners is a course about the latest open-source .NET Content Management System which is written in ASP.NET platform using the ASP.NET MVC framework.</p>
+
+<h2>What are the course requirements?</h2>
+
+<p>In order to get started with this course you will need to install the following things on your computer</p>
+
+<ul>
+<li>Microsoft WebMatrix 3</li>
+<li>SQL Server 2012 Express</li>
+<li>Visual Studio 2012 or higher (Including free express editions)</li>
+<li>Download Orchard CMS source and web project from CodePlex</li>
+<li>IIS 7.5/ 8 / 8.1</li>
+<li>Any web browser</li>
+</ul>
+
+
+<h2>How will you benefit from this course?</h2>
+
+<p>You will get a good working knowledge of Orchard CMS and its admin panel and how to use Orchard CMS as an advanced user.</p>
+
+<p>After completing this course you will be able to download Orchard, Install it locally and remotely on a live web server, use the Orchard admin panel very efficiently, Install new themes and modules from the gallery, create pages, blogs and pretty much everything that a content manager will do to manage his content using Orchard CMS.</p>
+
+<h2>What things you will be learning in this course?</h2>
+
+<ul>
+<li>Getting started with Orchard CMS</li>
+<li>Learn how to Install Orchard CMS on your local IIIS</li>
+<li>Learn about all the Orchard CMS Terminologies</li>
+<li>Learn how to use the Orchard CMS Admin Panel</li>
+<li>Learn how to host an Orchard CMS website on to a live web server</li>
+<li>Learn how to use the Built-In Modules &amp; feature in Orchard CMS</li>
+</ul>
+
+
+<h2>What are the requirements?</h2>
+
+<ul>
+<li>Microsoft WebMatrix 3</li>
+<li>Visual Studio 2012 or above(Including free expression editions)</li>
+<li>SQL Server 2012 Express</li>
+<li>IIS Internet Information Server (7.5 / 8 / 8.1)</li>
+<li>Orchard CMS Source Code and Web Project from CodePlex</li>
+<li>Web Browser (IE, Chrome, FireFox)</li>
+</ul>
+
+
+<h2>What am I going to get from this course?</h2>
+
+<ul>
+<li>Getting started with Orchard CMS</li>
+<li>Learn how to Install Orchard CMS on your local IIS</li>
+<li>Learn about all the Orchard CMS Terminologies</li>
+<li>Learn how to use the Orchard CMS Admin Panel</li>
+<li>Learn how to host an Orchard CMS website on to a live web server</li>
+</ul>
+
+
+<h2>What is the target audience?</h2>
+
+<ul>
+<li>Novice Web Developers</li>
+<li>Anyone having interest to learn Orchard CMS</li>
+<li>College students</li>
+</ul>
+
+
+<p><a href="https://www.udemy.com/orchard-cms-for-absolute-beginners/">https://www.udemy.com/orchard-cms-for-absolute-beginners/</a></p>
+]]></content>
+  </entry>
+  
+</feed>
