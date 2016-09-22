@@ -32,7 +32,7 @@
   <title>Category: Sanskrit-mantra - Abhishek Luv : Freelance Trainer in Mumbai (C#, ASP.NET MVC, Entity Framework)</title>
   <meta name="author" content="Abhishek Luv">
   <meta name="copyright" content="Abhishek Luv">
-  <meta name="revised" content="Thu Sep 22 15:35:03 2016">
+  <meta name="revised" content="Thu Sep 22 16:14:19 2016">
   <meta name="reply-to" content="abhishek@abhishekluv.in">
   <meta name="owner" content="Abhishek Luv">
   <meta name="og:site_name" content="Abhishek Luv : Freelance ASP.NET MVC & Entity Framework Trainer"/>
@@ -71,6 +71,7 @@ background: linear-gradient(to left, #00d2ff , #928DAB); /* W3C, IE 10+/ Edge, F
   </style>
   <style type="text/css">.flag{width:16px;height:11px;background:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAALCAYAAAAeEY8BAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABdklEQVQ4ja2UvW5TQRCFvzUWiFDwZ1JAQIgQCVGAQOI1EI9AwSPQUdHlSUhPE4kGCiQaREcVi84VBXKCC3tnzqG4G2O7vR7p29Gu9s45O3vvLbbpFV/KWgGdDw0FSI1Yoc2H/dRbHLwDwIhigROToKA4uKBgQMUKrIod2JW/Xz9uyQDGdQJOUGLXzoQqdl3Ji0alXLq7nQ5o9wXl8mMY7mILO8HJ+PcNvo/vkUqe3z/hYDTpTq5ADsrwFrp9TOn7DoTkQSnY8L+W+XD8i/npjKePbvJjfMbrlw+QjWVkMyiFP9NTBn07MOj0aA6WzGZz9u/s8OnzCWezOW7iPt8DIPU30IU7Spdt82T/Ot9+TomLOzx7eK11ZxP1v4Lytvjw1SGT6YRQEFmpGVRVIoOalVDLGR0K9q7ucfT+aAtfQbAsvCq6JqxYMxNKUgmLbfwHFhAKRldGy9MtcyOVZCbhIDNJNwNiC1fwpphF1wkWG8TGeqyg7vl/jn1cEhDDcysAAAAASUVORK5CYII=') no-repeat}.flag.flag-in{background-position:-16px 0}
 </style>
+<link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/mediaelement/2.21.0/mediaelementplayer.min.css">
 </head>
 
 <body   >
@@ -233,17 +234,20 @@ a <strong><em>Freelance ASP.NET MVC Trainer</em></strong>,
     <script>
             var require = {
     shim : {
-        "jquery" :{}
+        "jquery" :{},
+        "mediaelement" : {"deps" :['jquery']}
     },
     paths: {
-        "jquery" : "http://dwz6w0xm5nwrx.cloudfront.net/js/alljs.min"
+        "jquery" : "http://dwz6w0xm5nwrx.cloudfront.net/js/alljs.min",
+        "mediaelement" : "http://cdnjs.cloudflare.com/ajax/libs/mediaelement/2.21.0/mediaelement-and-player.min"
     }
 };
    </script>
 <script src="http://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.22/require.min.js" type="text/javascript"></script>
 <script>
-    require(['jquery'],function($){
+    require(['jquery','mediaelement'],function($){
       $(document).ready(function() {  
+        $('audio').mediaelementplayer();
       var stickyNavTop=$('nav').offset().top; var stickyNav=function(){var scrollTop=$(window).scrollTop(); var navHasClassSticky=$('nav').hasClass('sticky'); if (scrollTop > stickyNavTop && navHasClassSticky){return true;}else if (scrollTop > stickyNavTop){$('nav').hide(); $('nav').addClass('sticky'); $('nav').fadeIn('2000');}else{$('nav').removeClass('sticky');}}; stickyNav(); $(window).scroll(function(){stickyNav();}); 
         
       });  
