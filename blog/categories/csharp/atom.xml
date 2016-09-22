@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Csharp | Abhishek Luv]]></title>
   <link href="http://www.abhishekluv.in/blog/categories/csharp/atom.xml" rel="self"/>
   <link href="http://www.abhishekluv.in/"/>
-  <updated>2016-09-22T15:16:00+05:30</updated>
+  <updated>2016-09-22T15:35:03+05:30</updated>
   <id>http://www.abhishekluv.in/</id>
   <author>
     <name><![CDATA[Abhishek Luv]]></name>
@@ -12,6 +12,133 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Step-by-Step Learning Plan for C#.NET and ASP.NET MVC Framework]]></title>
+    <link href="http://www.abhishekluv.in/blog/2016/09/22/step-by-step-learning-plan-for-csharp-and-aspnet-mvc-framework/"/>
+    <updated>2016-09-22T15:21:39+05:30</updated>
+    <id>http://www.abhishekluv.in/blog/2016/09/22/step-by-step-learning-plan-for-csharp-and-aspnet-mvc-framework</id>
+    <content type="html"><![CDATA[<p>Are you planning to learn ASP.NET MVC?</p>
+
+<p>Don&rsquo;t know how and where to start.</p>
+
+<p>In this post, I&rsquo;ll be sharing with you the ways to learn ASP.NET MVC step-by-step.</p>
+
+<!-- more -->
+
+
+
+
+<h2>Week 1: HTML and CSS</h2>
+
+
+<p>Without HTML and CSS you won’t be able to do much with ASP.NET MVC.</p>
+
+
+<p>Week 1 start learning and understanding HTML and CSS for the first 3 days and for the remaining 3 days try creating a simple 3 to 5 page website by applying your knowledge in a practical way.</p>
+
+
+<p><em>Note: Just create a simple website. You don&rsquo;t need to create a website like a UX/UI Designer. Just understand the basics and create a simple website.</em></p>
+
+
+<h2>Week 2: JavaScript and jQuery</h2>
+
+
+<p>JavaScript has become the assembly language of the web. Both JavaScript and jQuery are equally important to learn.</p>
+
+
+<p>Start with JavaScript first and then play around with some jQuery. jQuery is a framework built on top of JavaScript. So it’s always better to know and understand JavaScript.</p>
+
+
+<p><em>Note: JavaScript is a very different language when compared with languages like Java and C#. JavaScript is a function based programming language.</em></p>
+
+
+<h2>Week 3 : C# and .NET Framework Basics</h2>
+
+
+<p>Now, that you have a basic foundational knowledge of HTML, CSS, JavaScript and jQuery you can start learning C#.</p>
+
+
+<p>C# is an Object-Oriented Programming language developed by Microsoft.</p>
+
+
+<p>7 Days of C#:</p>
+
+
+<ul>
+<li>Day 1 : C# keyword basics and Built-types in C#</li>
+<li>Day 2 : Operators, Conditioning, Looping in C#</li>
+<li>Day 3 : Object-Oriented Concepts like classes and objects</li>
+<li>Day 4 : More OOP Concepts inheritance, abstract classes and interfaces</li>
+<li>Day 5 : Advanced C# Concepts like Delegates, Generics, Collections, Dictionary, Anonymous and Extension methods</li>
+<li>Day 6 : More Advanced C# Concepts like Linq, Lambda Expressions, Func delegate and more..</li>
+<li>Day 7 : Creating a Simple C# Console Application using some of the feature of the C# language</li>
+</ul>
+
+
+<p><em>Note: I would recommend getting this book &ldquo;C# 5.0 in a Nutshell Definitive Reference&rdquo;.</em></p>
+
+
+<h2>Week 4 : ASP.NET MVC Basics</h2>
+
+
+<p>After getting your hands dirty with the C# programming language you can start with the basics of ASP.NET MVC.</p>
+
+
+<p>Now&hellip;you would be having this question in your mind. Should I learn ASP.NET WebForms or ASP.NET MVC?</p>
+
+
+<p>I would recommend you to learn ASP.NET MVC. No need to learn WebForms.</p>
+
+
+<p>7 Days of ASP.NET MVC:</p>
+
+
+<ul>
+<li>Day 1 : ASP.NET MVC basics like MVC Version, Project Structure, MVC Pattern and Visual Studio basics</li>
+<li>Day 2 : Start playing around with Controllers, Views, ViewData and ViewBag</li>
+<li>Day 3 : Learn what are Views, Strongly typed Views, Layouts, Sections</li>
+<li>Day 4 : Learn what are Controllers, Action Methods, ActionResult types, Action Filters</li>
+<li>Day 5 : Learn what are Models, Model Binding, Entity Framework POCO class, Entity Framework DbContext and Data Access using Linq</li>
+<li>Day 6 : Learn how to validate Model Data using Data Annotation, Fluent API Validation and Remote Validation</li>
+<li>Day 7 : Creating a Simple Timetable Application using some of the features of ASP.NET MVC Framework</li>
+</ul>
+
+
+<p><em>Note: I would recommend getting this book &ldquo;Professional ASP.NET MVC 5&rdquo;.</em></p>
+
+
+<h2>Week 5 : Building a Web Application</h2>
+
+
+<p>Now, that you have a lot of knowledge about how to build a web application try creating a web application using the following:</p>
+
+
+<ul>
+<li>HTML, CSS and Bootstrap for User Interface</li>
+<li>LINQ and Entity Framework for Data Access</li>
+<li>ASP.NET MVC as a server framework</li>
+<li>JavaScript and jQuery for AJAX asyn calls to the MVC Controllers</li>
+<li>Using .NET Framework classes for tasks like Email sending, getting IP address of the user and etc.</li>
+</ul>
+
+
+<p><em>Application Idea: Create a web application which requests the user to submit a form with their details. The Form should use client and server side validations and should submit the users IP address to the server and in response should send an acknowledgement email saying that we have received your submissions.</em></p>
+
+
+<p>Learn everything step-by-step.</p>
+
+
+<p>Take Care!</p>
+
+
+<p>Peace</p>
+
+
+<p>Abhishek Luv</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Successfully Conducted a 1 Month C# Programming Training for a Computer Institute]]></title>
