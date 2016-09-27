@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Data-in-controller | Abhishek Luv]]></title>
+  <link href="http://www.abhishekluv.in/blog/categories/data-in-controller/atom.xml" rel="self"/>
+  <link href="http://www.abhishekluv.in/"/>
+  <updated>2016-09-27T17:34:19+05:30</updated>
+  <id>http://www.abhishekluv.in/</id>
+  <author>
+    <name><![CDATA[Abhishek Luv]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Accessing Form Data Into the Controller Using the Request Object]]></title>
+    <link href="http://www.abhishekluv.in/blog/2014/09/27/accessing-form-data-into-the-controller-using-the-request-object/"/>
+    <updated>2014-09-27T17:13:54+05:30</updated>
+    <id>http://www.abhishekluv.in/blog/2014/09/27/accessing-form-data-into-the-controller-using-the-request-object</id>
+    <content type="html"><![CDATA[<p>Accessing form data inside a controller is a very common scenario.</p>
+
+<p><strong>Steps required to do</strong></p>
+
+<ul>
+<li>Create a controller with Get and Post methods</li>
+<li>Inside the HttpPost action method access the form data values using the Request object</li>
+<li>Create a Create.cshtml View file with a form using Html.BeginForm</li>
+<li>Create a breakpoint and check the form values</li>
+</ul>
+
+
+<!-- more -->
+
+
+<p><div><script src='https://gist.github.com/edbef319bce7d23e06ad5d29a11b03dc.js?file=FormDataController.cs'></script>
+<noscript><pre><code>using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+
+namespace WebApplication1.Controllers
+{
+    public class FormDataController : Controller
+    {
+        // GET: FormData
+        public ActionResult Index()
+        {
+            return View();
+        }
+    }
+}</code></pre></noscript></div>
+</p>
+
+<p><div><script src='https://gist.github.com/c2ce3f7fc177e8b33ca35dca1efc56b9.js?file=FormDataController.cs'></script>
+<noscript><pre><code>using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+
+namespace WebApplication1.Controllers
+{
+    public class FormDataController : Controller
+    {
+        // GET: FormData
+        public ActionResult Index()
+        {
+            return View();
+        }
+
+        // Create two Action Methods for Get and Post request
+
+        [HttpGet]
+        public ActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult CreateWithRequest()
+        {
+            return View();
+        }
+    }
+}</code></pre></noscript></div>
+</p>
+
+<p><div><script src='https://gist.github.com/4e78e38a580a4ca7ec90323dbfc967dc.js?file=FormDataController.cs'></script>
+<noscript><pre><code>using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+
+namespace WebApplication1.Controllers
+{
+    public class FormDataController : Controller
+    {
+        // GET: FormData
+        public ActionResult Index()
+        {
+            return View();
+        }
+
+        // Create two Action Methods for Get and Post request
+
+        [HttpGet]
+        public ActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult CreateWithRequest()
+        {
+            string name = Request.Form[&quot;name&quot;];
+            string email = Request.Form[&quot;email&quot;];
+
+            return View();
+        }
+    }
+}</code></pre></noscript></div>
+</p>
+
+<p><div><script src='https://gist.github.com/fee82134c6d684c485211692486dfe67.js?file=Create.cshtml'></script>
+<noscript><pre><code>@{
+    Layout = &quot;~/Views/Shared/_Layout.cshtml&quot;;
+    ViewBag.Title = &quot;Create&quot;;
+}
+
+@using (Html.BeginForm(&quot;CreateWithRequest&quot;, &quot;FormData&quot;))
+{
+    &lt;input type=&quot;text&quot; name=&quot;name&quot; required/&gt;
+
+    &lt;input type=&quot;text&quot; name=&quot;email&quot; required/&gt;
+
+    &lt;input type=&quot;submit&quot; value=&quot;submit&quot;/&gt;
+}</code></pre></noscript></div>
+</p>
+
+<p><img src="http://i.imgur.com/jesFSVe.png" alt="" /></p>
+]]></content>
+  </entry>
+  
+</feed>

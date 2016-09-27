@@ -193,6 +193,10 @@
 <lastmod>2014-11-21T11:04:24+05:30</lastmod>
 </url>
 <url>
+<loc>http://www.abhishekluv.in/blog/2014/09/27/accessing-form-data-into-the-controller-using-the-request-object/</loc>
+<lastmod>2014-09-27T17:13:54+05:30</lastmod>
+</url>
+<url>
 <loc>http://www.abhishekluv.in/blog/2014/08/27/learn-how-to-host-unlimited-static-website-for-free-udemy-course/</loc>
 <lastmod>2014-08-27T17:19:37+05:30</lastmod>
 </url>
@@ -337,6 +341,15 @@
 </url>
 <url>
 <loc>http://www.abhishekluv.in/blog/categories/free-static-web-hosting/</loc>
+</url>
+<url>
+<loc>http://www.abhishekluv.in/blog/categories/aspnet-mvc/</loc>
+</url>
+<url>
+<loc>http://www.abhishekluv.in/blog/categories/request/</loc>
+</url>
+<url>
+<loc>http://www.abhishekluv.in/blog/categories/data-in-controller/</loc>
 </url>
 <url>
 <loc>http://www.abhishekluv.in/blog/categories/git-training/</loc>
@@ -529,8 +542,5 @@
 </url>
 <url>
 <loc>http://www.abhishekluv.in/blog/categories/learning-plan/</loc>
-</url>
-<url>
-<loc>http://www.abhishekluv.in/blog/categories/aspnet-mvc/</loc>
 </url>
 </urlset>
