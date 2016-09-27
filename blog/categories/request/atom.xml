@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Request | Abhishek Luv]]></title>
   <link href="http://www.abhishekluv.in/blog/categories/request/atom.xml" rel="self"/>
   <link href="http://www.abhishekluv.in/"/>
-  <updated>2016-09-27T17:37:29+05:30</updated>
+  <updated>2016-09-27T17:49:02+05:30</updated>
   <id>http://www.abhishekluv.in/</id>
   <author>
     <name><![CDATA[Abhishek Luv]]></name>
@@ -20,7 +20,9 @@
     <id>http://www.abhishekluv.in/blog/2014/09/27/accessing-form-data-into-the-controller-using-the-request-object</id>
     <content type="html"><![CDATA[<p>Accessing form data inside a controller is a very common scenario.</p>
 
-<p><strong>Steps required to do</strong></p>
+<p><em>Note: Post updated with source code files posted on gist.github.com</em></p>
+
+<p><strong>Steps required to do : </strong></p>
 
 <ul>
 <li>Create a controller with Get and Post methods</li>
