@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Udemy | Abhishek Luv]]></title>
+  <link href="http://www.abhishekluv.in/blog/categories/udemy/atom.xml" rel="self"/>
+  <link href="http://www.abhishekluv.in/"/>
+  <updated>2016-09-28T16:54:08+05:30</updated>
+  <id>http://www.abhishekluv.in/</id>
+  <author>
+    <name><![CDATA[Abhishek Luv]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Thank You From Udemy]]></title>
+    <link href="http://www.abhishekluv.in/blog/2014/06/06/thank-you-from-udemy/"/>
+    <updated>2014-06-06T16:48:27+05:30</updated>
+    <id>http://www.abhishekluv.in/blog/2014/06/06/thank-you-from-udemy</id>
+    <content type="html"><![CDATA[<p>You are AWESOME! Thank You from Udemy.</p>
+
+<!-- more -->
+
+
+<p>I have been teaching on Udemy from last one year and this is how they make my day more awesome.</p>
+
+<p>Thank you Udemy.</p>
+
+<p><img src="http://i.imgur.com/pSgnxug.jpg" alt="" /></p>
+
+<p><img src="http://i.imgur.com/pxtg3R0.jpg" alt="" /></p>
+]]></content>
+  </entry>
+  
+</feed>
