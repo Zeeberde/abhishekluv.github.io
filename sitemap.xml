@@ -193,6 +193,10 @@
 <lastmod>2014-11-21T11:04:24+05:30</lastmod>
 </url>
 <url>
+<loc>http://www.abhishekluv.in/blog/2014/11/02/introduction-to-orchard-cms-and-theme-development-training-conducted/</loc>
+<lastmod>2014-11-02T11:28:18+05:30</lastmod>
+</url>
+<url>
 <loc>http://www.abhishekluv.in/blog/2014/09/27/accessing-form-data-into-the-controller-using-the-request-object/</loc>
 <lastmod>2014-09-27T17:13:54+05:30</lastmod>
 </url>
@@ -207,6 +211,10 @@
 <url>
 <loc>http://www.abhishekluv.in/blog/2014/06/28/orchard-cms-tutorial-recipes-in-orchard-cms/</loc>
 <lastmod>2014-06-28T17:16:45+05:30</lastmod>
+</url>
+<url>
+<loc>http://www.abhishekluv.in/blog/2014/06/09/conducted-orchard-cms-training-for-mtccrm/</loc>
+<lastmod>2014-06-09T11:14:33+05:30</lastmod>
 </url>
 <url>
 <loc>http://www.abhishekluv.in/blog/2014/05/27/orchard-cms-project-india-community-website-launched/</loc>
@@ -331,6 +339,12 @@
 <loc>http://www.abhishekluv.in/blog/categories/orchard-community-website/</loc>
 </url>
 <url>
+<loc>http://www.abhishekluv.in/blog/categories/orchard-cms-training/</loc>
+</url>
+<url>
+<loc>http://www.abhishekluv.in/blog/categories/online-training/</loc>
+</url>
+<url>
 <loc>http://www.abhishekluv.in/blog/categories/orchard-recipes/</loc>
 </url>
 <url>
@@ -350,6 +364,9 @@
 </url>
 <url>
 <loc>http://www.abhishekluv.in/blog/categories/data-in-controller/</loc>
+</url>
+<url>
+<loc>http://www.abhishekluv.in/blog/categories/training/</loc>
 </url>
 <url>
 <loc>http://www.abhishekluv.in/blog/categories/git-training/</loc>
@@ -524,9 +541,6 @@
 </url>
 <url>
 <loc>http://www.abhishekluv.in/blog/categories/stay-wise/</loc>
-</url>
-<url>
-<loc>http://www.abhishekluv.in/blog/categories/training/</loc>
 </url>
 <url>
 <loc>http://www.abhishekluv.in/blog/categories/mumbai/</loc>

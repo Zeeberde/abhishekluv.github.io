@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Orchard-cms-training | Abhishek Luv]]></title>
+  <link href="http://www.abhishekluv.in/blog/categories/orchard-cms-training/atom.xml" rel="self"/>
+  <link href="http://www.abhishekluv.in/"/>
+  <updated>2016-09-28T11:39:58+05:30</updated>
+  <id>http://www.abhishekluv.in/</id>
+  <author>
+    <name><![CDATA[Abhishek Luv]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Introduction to Orchard CMS and Theme Development Training Conducted]]></title>
+    <link href="http://www.abhishekluv.in/blog/2014/11/02/introduction-to-orchard-cms-and-theme-development-training-conducted/"/>
+    <updated>2014-11-02T11:28:18+05:30</updated>
+    <id>http://www.abhishekluv.in/blog/2014/11/02/introduction-to-orchard-cms-and-theme-development-training-conducted</id>
+    <content type="html"><![CDATA[<p>Today, I conducted a one-on-one training session on <em>Introduction to Orchard CMS and Theme Development</em> for a company in Mumbai.</p>
+
+<!-- more -->
+
+
+<blockquote><p>Ajay Navgale - Founder, CentraLogic Consultancy</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Conducted Orchard CMS Training for MTC-CRM]]></title>
+    <link href="http://www.abhishekluv.in/blog/2014/06/09/conducted-orchard-cms-training-for-mtccrm/"/>
+    <updated>2014-06-09T11:14:33+05:30</updated>
+    <id>http://www.abhishekluv.in/blog/2014/06/09/conducted-orchard-cms-training-for-mtccrm</id>
+    <content type="html"><![CDATA[<p>Today, I conducted an online training session for 5 hours on Orchard CMS for MTC-CRM.</p>
+
+<!-- more -->
+
+
+<p><strong>Company Feedback:</strong></p>
+
+<p>We found the course and training on Orchard very useful and will hopefully be able to put all of it into practice. Thanks Abhishek to put a great effort and looking forward for next sessions.</p>
+
+<blockquote><p>Rakesh Agarwal – Co-Founder</p></blockquote>
+]]></content>
+  </entry>
+  
+</feed>
