@@ -4,13 +4,68 @@
   <title><![CDATA[Abhishek Luv]]></title>
   <link href="http://www.abhishekluv.in/atom.xml" rel="self"/>
   <link href="http://www.abhishekluv.in/"/>
-  <updated>2016-10-01T15:51:08+05:30</updated>
+  <updated>2016-10-11T21:37:35+05:30</updated>
   <id>http://www.abhishekluv.in/</id>
   <author>
     <name><![CDATA[Abhishek Luv]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Generating SSH Key for GitHub Using Git Extensions]]></title>
+    <link href="http://www.abhishekluv.in/blog/2016/10/11/generating-ssh-key-for-github-using-git-extensions/"/>
+    <updated>2016-10-11T21:06:37+05:30</updated>
+    <id>http://www.abhishekluv.in/blog/2016/10/11/generating-ssh-key-for-github-using-git-extensions</id>
+    <content type="html"><![CDATA[<p>This step-by-step tutorial assumes that you have already installed Git Extensions on your computer.</p>
+
+<p>Using GitHub via HTTPS with Git Extensions can become pretty boring. SSH to the resuce.</p>
+
+<!-- more -->
+
+
+<p><strong>Step 1: Click on Tools -> Generate or Import Key</strong></p>
+
+<p><img src="http://i.imgur.com/V62YvcO.png" alt="" /></p>
+
+<p><strong>Step 2 : Click on Generate</strong></p>
+
+<p><em>Note : Move the mouse over the blank area to generate randomness when generating the SSH key</em></p>
+
+<p><img src="http://i.imgur.com/JwjCACx.png" alt="" /></p>
+
+<p><strong>Step 3 : Click on Save Private Key</strong></p>
+
+<p><em>Note : Click Yes for the passphrase message</em></p>
+
+<p><img src="http://i.imgur.com/EsI9Tmg.png" alt="" /></p>
+
+<p><strong>Step 4 : Save the SSH Private key with .ppk extension</strong></p>
+
+<p><img src="http://i.imgur.com/6WfN4mj.png" alt="" /></p>
+
+<p><strong>Step 5 : Copy the SSH Key to the clipboard</strong></p>
+
+<p><img src="http://i.imgur.com/n8TfmR2.png" alt="" /></p>
+
+<p><strong>Step 6 : Setup the SSH key with GitHub Settings</strong></p>
+
+<ul>
+<li>Visit SSH Key settings URL : <a href="https://github.com/settings/keys">https://github.com/settings/keys</a></li>
+<li>click New SSH Key</li>
+<li>click Add SSH Key</li>
+</ul>
+
+
+<p><img src="http://i.imgur.com/3PX9Dyc.png" alt="" /></p>
+
+<p>Take Care!</p>
+
+<p>Peace</p>
+
+<p>Abhishek Luv</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Step-by-Step Learning Plan for C#.NET and ASP.NET MVC Framework]]></title>
@@ -421,7 +476,7 @@ Giving the MTA 98-361 Exam was a great experience. My next goal is to prepare fo
 </ul>
 
 
-<p>If you are interested then please ping me an email at <a href="&#x6d;&#97;&#105;&#108;&#116;&#x6f;&#x3a;&#x61;&#x62;&#104;&#105;&#x73;&#x68;&#101;&#107;&#x40;&#97;&#x62;&#104;&#105;&#x73;&#x68;&#101;&#107;&#108;&#117;&#118;&#46;&#x69;&#110;&#x2e;">&#97;&#98;&#x68;&#105;&#x73;&#104;&#x65;&#107;&#x40;&#x61;&#x62;&#104;&#x69;&#115;&#104;&#x65;&#107;&#108;&#x75;&#118;&#46;&#105;&#x6e;&#x2e;</a></p>
+<p>If you are interested then please ping me an email at <a href="&#109;&#x61;&#x69;&#x6c;&#116;&#111;&#58;&#x61;&#98;&#104;&#105;&#x73;&#104;&#101;&#107;&#x40;&#x61;&#x62;&#x68;&#x69;&#115;&#x68;&#x65;&#107;&#x6c;&#x75;&#x76;&#46;&#x69;&#x6e;&#x2e;">&#97;&#98;&#x68;&#x69;&#115;&#x68;&#101;&#107;&#64;&#97;&#98;&#x68;&#x69;&#115;&#x68;&#101;&#x6b;&#x6c;&#117;&#x76;&#46;&#105;&#110;&#46;</a></p>
 ]]></content>
   </entry>
   
@@ -458,7 +513,7 @@ Giving the MTA 98-361 Exam was a great experience. My next goal is to prepare fo
 </ul>
 
 
-<p>If you are interested then please ping me an email at <a href="&#109;&#97;&#x69;&#x6c;&#x74;&#111;&#58;&#97;&#98;&#x68;&#x69;&#x73;&#x68;&#101;&#x6b;&#64;&#97;&#98;&#x68;&#x69;&#x73;&#104;&#101;&#107;&#108;&#x75;&#x76;&#x2e;&#105;&#x6e;&#46;">&#97;&#98;&#104;&#105;&#x73;&#x68;&#101;&#107;&#64;&#97;&#x62;&#104;&#105;&#115;&#104;&#x65;&#107;&#108;&#x75;&#x76;&#46;&#x69;&#110;&#x2e;</a></p>
+<p>If you are interested then please ping me an email at <a href="&#x6d;&#97;&#x69;&#108;&#116;&#x6f;&#x3a;&#x61;&#x62;&#104;&#105;&#x73;&#104;&#101;&#107;&#x40;&#97;&#98;&#x68;&#x69;&#115;&#104;&#101;&#107;&#108;&#117;&#x76;&#46;&#105;&#110;&#x2e;">&#x61;&#x62;&#104;&#105;&#115;&#104;&#x65;&#x6b;&#64;&#x61;&#98;&#x68;&#105;&#115;&#x68;&#101;&#x6b;&#108;&#117;&#118;&#x2e;&#x69;&#110;&#46;</a></p>
 ]]></content>
   </entry>
   
@@ -495,7 +550,7 @@ Giving the MTA 98-361 Exam was a great experience. My next goal is to prepare fo
 </ul>
 
 
-<p>If you are interested then please ping me an email at <a href="&#x6d;&#x61;&#x69;&#108;&#x74;&#111;&#x3a;&#97;&#x62;&#104;&#x69;&#115;&#x68;&#101;&#x6b;&#64;&#97;&#x62;&#x68;&#x69;&#115;&#104;&#101;&#x6b;&#108;&#x75;&#x76;&#x2e;&#105;&#110;&#x2e;">&#x61;&#98;&#104;&#105;&#115;&#x68;&#x65;&#x6b;&#x40;&#97;&#98;&#x68;&#x69;&#115;&#x68;&#x65;&#x6b;&#x6c;&#117;&#118;&#46;&#x69;&#110;&#46;</a></p>
+<p>If you are interested then please ping me an email at <a href="&#109;&#97;&#105;&#x6c;&#116;&#111;&#58;&#x61;&#x62;&#104;&#105;&#115;&#104;&#101;&#107;&#64;&#x61;&#x62;&#104;&#105;&#115;&#104;&#101;&#107;&#x6c;&#117;&#118;&#46;&#x69;&#x6e;&#46;">&#97;&#x62;&#104;&#x69;&#115;&#x68;&#101;&#x6b;&#x40;&#97;&#98;&#104;&#105;&#115;&#104;&#x65;&#107;&#x6c;&#117;&#118;&#46;&#x69;&#110;&#x2e;</a></p>
 ]]></content>
   </entry>
   
@@ -532,7 +587,7 @@ Giving the MTA 98-361 Exam was a great experience. My next goal is to prepare fo
 </ul>
 
 
-<p>If you are interested then please ping me an email at <a href="&#x6d;&#x61;&#x69;&#108;&#116;&#111;&#58;&#97;&#98;&#x68;&#105;&#x73;&#104;&#x65;&#107;&#64;&#97;&#x62;&#x68;&#105;&#x73;&#x68;&#101;&#x6b;&#108;&#117;&#x76;&#46;&#105;&#110;&#x2e;">&#97;&#98;&#x68;&#x69;&#x73;&#x68;&#x65;&#107;&#64;&#97;&#x62;&#104;&#x69;&#115;&#x68;&#x65;&#x6b;&#x6c;&#x75;&#118;&#46;&#x69;&#110;&#46;</a></p>
+<p>If you are interested then please ping me an email at <a href="&#109;&#x61;&#105;&#x6c;&#x74;&#x6f;&#58;&#x61;&#x62;&#104;&#x69;&#115;&#x68;&#x65;&#x6b;&#x40;&#97;&#x62;&#104;&#x69;&#x73;&#104;&#x65;&#107;&#x6c;&#x75;&#x76;&#46;&#x69;&#110;&#x2e;">&#x61;&#98;&#104;&#105;&#115;&#x68;&#101;&#107;&#x40;&#x61;&#x62;&#104;&#105;&#x73;&#104;&#x65;&#107;&#x6c;&#117;&#x76;&#46;&#x69;&#110;&#46;</a></p>
 ]]></content>
   </entry>
   
@@ -569,7 +624,7 @@ Giving the MTA 98-361 Exam was a great experience. My next goal is to prepare fo
 </ul>
 
 
-<p>If you are interested then please ping me an email at <a href="&#109;&#97;&#x69;&#108;&#x74;&#111;&#58;&#97;&#x62;&#104;&#105;&#x73;&#x68;&#101;&#x6b;&#64;&#x61;&#x62;&#x68;&#x69;&#x73;&#104;&#101;&#107;&#x6c;&#x75;&#118;&#x2e;&#105;&#x6e;&#x2e;">&#97;&#98;&#104;&#x69;&#x73;&#x68;&#x65;&#107;&#x40;&#97;&#98;&#104;&#105;&#x73;&#x68;&#x65;&#107;&#108;&#x75;&#118;&#x2e;&#x69;&#110;&#x2e;</a></p>
+<p>If you are interested then please ping me an email at <a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#111;&#58;&#97;&#98;&#104;&#105;&#x73;&#104;&#101;&#x6b;&#x40;&#x61;&#98;&#x68;&#x69;&#x73;&#104;&#x65;&#x6b;&#x6c;&#x75;&#x76;&#x2e;&#105;&#110;&#46;">&#x61;&#98;&#x68;&#105;&#115;&#104;&#101;&#x6b;&#64;&#x61;&#98;&#104;&#105;&#115;&#104;&#101;&#x6b;&#108;&#x75;&#118;&#46;&#x69;&#110;&#x2e;</a></p>
 ]]></content>
   </entry>
   
@@ -606,7 +661,7 @@ Giving the MTA 98-361 Exam was a great experience. My next goal is to prepare fo
 </ul>
 
 
-<p>If you are interested then please ping me an email at <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#x3a;&#97;&#x62;&#x68;&#x69;&#115;&#104;&#x65;&#x6b;&#x40;&#x61;&#x62;&#104;&#105;&#115;&#104;&#101;&#x6b;&#108;&#117;&#118;&#46;&#105;&#x6e;&#x2e;">&#x61;&#98;&#104;&#x69;&#115;&#x68;&#101;&#x6b;&#x40;&#97;&#98;&#x68;&#x69;&#115;&#x68;&#101;&#x6b;&#x6c;&#117;&#118;&#x2e;&#105;&#x6e;&#46;</a></p>
+<p>If you are interested then please ping me an email at <a href="&#x6d;&#x61;&#105;&#108;&#x74;&#111;&#58;&#x61;&#98;&#104;&#x69;&#x73;&#x68;&#x65;&#x6b;&#x40;&#x61;&#x62;&#x68;&#105;&#x73;&#104;&#101;&#107;&#x6c;&#x75;&#118;&#46;&#105;&#110;&#x2e;">&#x61;&#x62;&#104;&#105;&#x73;&#104;&#x65;&#107;&#x40;&#x61;&#98;&#x68;&#105;&#115;&#104;&#101;&#x6b;&#108;&#x75;&#x76;&#46;&#x69;&#x6e;&#46;</a></p>
 ]]></content>
   </entry>
   
@@ -643,7 +698,7 @@ Giving the MTA 98-361 Exam was a great experience. My next goal is to prepare fo
 </ul>
 
 
-<p>If you are interested then please ping me an email at <a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#111;&#58;&#97;&#x62;&#104;&#105;&#x73;&#104;&#x65;&#x6b;&#x40;&#97;&#x62;&#104;&#x69;&#x73;&#x68;&#x65;&#x6b;&#x6c;&#x75;&#118;&#46;&#105;&#x6e;&#46;">&#97;&#x62;&#104;&#105;&#x73;&#104;&#101;&#x6b;&#64;&#97;&#98;&#x68;&#105;&#x73;&#104;&#101;&#x6b;&#108;&#x75;&#118;&#x2e;&#105;&#110;&#x2e;</a></p>
+<p>If you are interested then please ping me an email at <a href="&#109;&#x61;&#x69;&#x6c;&#116;&#x6f;&#58;&#x61;&#98;&#104;&#x69;&#115;&#104;&#101;&#x6b;&#64;&#x61;&#x62;&#x68;&#x69;&#115;&#104;&#x65;&#x6b;&#108;&#117;&#118;&#x2e;&#x69;&#x6e;&#x2e;">&#x61;&#x62;&#104;&#x69;&#x73;&#104;&#101;&#x6b;&#64;&#97;&#x62;&#104;&#x69;&#x73;&#x68;&#x65;&#x6b;&#x6c;&#x75;&#118;&#x2e;&#x69;&#110;&#46;</a></p>
 ]]></content>
   </entry>
   
@@ -680,7 +735,7 @@ Giving the MTA 98-361 Exam was a great experience. My next goal is to prepare fo
 </ul>
 
 
-<p>If you are interested then please ping me an email at <a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#97;&#98;&#104;&#105;&#x73;&#104;&#101;&#107;&#64;&#97;&#x62;&#104;&#x69;&#x73;&#x68;&#x65;&#x6b;&#x6c;&#x75;&#118;&#46;&#105;&#x6e;&#x2e;">&#x61;&#x62;&#x68;&#105;&#x73;&#x68;&#101;&#x6b;&#64;&#97;&#x62;&#x68;&#105;&#115;&#x68;&#x65;&#x6b;&#108;&#x75;&#118;&#46;&#105;&#x6e;&#46;</a></p>
+<p>If you are interested then please ping me an email at <a href="&#x6d;&#x61;&#105;&#x6c;&#116;&#111;&#x3a;&#97;&#98;&#104;&#105;&#x73;&#x68;&#x65;&#x6b;&#x40;&#97;&#98;&#x68;&#x69;&#x73;&#104;&#x65;&#x6b;&#x6c;&#x75;&#118;&#46;&#105;&#x6e;&#x2e;">&#97;&#x62;&#x68;&#105;&#115;&#104;&#x65;&#x6b;&#64;&#x61;&#x62;&#104;&#x69;&#x73;&#x68;&#x65;&#x6b;&#x6c;&#x75;&#x76;&#x2e;&#x69;&#x6e;&#x2e;</a></p>
 ]]></content>
   </entry>
   
@@ -717,7 +772,7 @@ Giving the MTA 98-361 Exam was a great experience. My next goal is to prepare fo
 </ul>
 
 
-<p>If you are interested then please ping me an email at <a href="&#109;&#97;&#x69;&#x6c;&#x74;&#x6f;&#58;&#x61;&#98;&#104;&#105;&#115;&#x68;&#101;&#x6b;&#x40;&#x61;&#98;&#x68;&#105;&#x73;&#x68;&#x65;&#107;&#108;&#x75;&#118;&#46;&#105;&#x6e;&#46;">&#97;&#98;&#x68;&#105;&#x73;&#104;&#x65;&#107;&#64;&#x61;&#x62;&#x68;&#x69;&#115;&#104;&#101;&#107;&#108;&#117;&#x76;&#46;&#x69;&#x6e;&#x2e;</a></p>
+<p>If you are interested then please ping me an email at <a href="&#x6d;&#97;&#x69;&#108;&#x74;&#x6f;&#x3a;&#97;&#98;&#104;&#x69;&#x73;&#104;&#101;&#107;&#x40;&#97;&#98;&#x68;&#x69;&#x73;&#104;&#x65;&#x6b;&#108;&#117;&#118;&#x2e;&#105;&#x6e;&#x2e;">&#x61;&#x62;&#x68;&#x69;&#x73;&#x68;&#x65;&#x6b;&#x40;&#x61;&#98;&#104;&#x69;&#x73;&#x68;&#x65;&#107;&#108;&#117;&#x76;&#46;&#105;&#110;&#46;</a></p>
 ]]></content>
   </entry>
   
@@ -754,362 +809,7 @@ Giving the MTA 98-361 Exam was a great experience. My next goal is to prepare fo
 </ul>
 
 
-<p>If you are interested then please ping me an email at <a href="&#109;&#97;&#x69;&#108;&#x74;&#111;&#x3a;&#97;&#x62;&#x68;&#x69;&#x73;&#x68;&#101;&#x6b;&#x40;&#x61;&#98;&#104;&#x69;&#x73;&#104;&#x65;&#x6b;&#108;&#x75;&#118;&#x2e;&#105;&#x6e;&#x2e;">&#97;&#x62;&#x68;&#105;&#115;&#104;&#101;&#x6b;&#x40;&#97;&#98;&#x68;&#x69;&#115;&#104;&#x65;&#x6b;&#x6c;&#x75;&#118;&#x2e;&#105;&#x6e;&#46;</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Learn C# in 7 Days : Day 2]]></title>
-    <link href="http://www.abhishekluv.in/blog/2016/04/09/learn-csharp-in-7-days-day-2/"/>
-    <updated>2016-04-09T16:08:02+05:30</updated>
-    <id>http://www.abhishekluv.in/blog/2016/04/09/learn-csharp-in-7-days-day-2</id>
-    <content type="html"><![CDATA[<p>Learning C# for beginners can be little difficult in the first place. But it isn&rsquo;t that difficult.</p>
-
-<p>When starting to learn C# you should start with the basics and not get into the deep rabbit hole of it.</p>
-
-<p>This is Day 2 of Learn C# in 7 Days. Checkout <a href="http://www.abhishekluv.in/blog/2016/04/09/learn-csharp-in-7-days-day-1/">Day 1</a> before starting with Day 2.</p>
-
-<!-- more -->
-
-
-<h2>Topics we&rsquo;ll be discussing</h2>
-
-<ul>
-<li>Classes</li>
-<li>Objects</li>
-<li>Constructor</li>
-<li>Methods with returns values</li>
-<li>Methods with Parameters and Arguments</li>
-<li>This keyword</li>
-<li>What is Object-Oriented Programming
-
-<ul>
-<li>Encapsulation</li>
-<li>Polymorphism</li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Classes</h2>
-
-<p>A class is a template for creating an object.</p>
-
-<pre><code>public class Employee
-{
-    // This is a constructor 
-    public Employee()
-    {
-
-    }
-    // This is the Data 
-    public string Name;
-    public int Age;
-
-    // This is a method which performs actions on the data
-    public void DisplayData()
-    {
-        Console.WriteLine(Name + Age);
-    }
-}
-</code></pre>
-
-<h2>Objects</h2>
-
-<p>An Object is an instance of a class. In other word a snapshot or copy of a class having all the data and methods associated with it.</p>
-
-<pre><code>public class Program
-{
-    static void Main()
-    {
-        Employee abhishekluv = new Employee();
-        abhishekluv.DisplayData();
-    }
-}
-</code></pre>
-
-<p>The <code>new</code> keyword + <code>Employee()</code> the constructor <code>new Employee()</code> is used to create an object of a class i.e. an instance of a class.</p>
-
-<h2>Constructor</h2>
-
-<p>Every time you declare a class in C# there is a method <code>Public Employee()</code> created in the background automatically by the compiler having the same name as the class.</p>
-
-<ul>
-<li>Constructor is a method that has the same name as the class</li>
-<li>Constructor is executed when an object is created</li>
-<li>Constructor is used to set default/initial values for an object</li>
-<li>Constructor doesn&rsquo;t return anything including <code>void</code></li>
-</ul>
-
-
-<p><strong>Play with the constructor</strong></p>
-
-<pre><code>    public Employee()
-    {
-        Console.WriteLine("Constructor is fired");
-    }
-</code></pre>
-
-<p><strong>Constructor with Parameters and Arguments</strong></p>
-
-<p>For example: You have declared a class with two public variables and one public method.</p>
-
-<p>As constructors are used to initial default values during object creation you can define those values using a parameterized constructor.</p>
-
-<pre><code>class Employee
-{
-    public string Name;
-    public int Age;
-
-    public Employee()
-    {
-        Name = 6;
-        Age = 5;
-
-        Console.WriteLine("Ctor fired");
-    }
-
-    public Employee(string name, int age)
-    {
-        this.Name = name;
-        this.Age = age;
-    }
-    public void DisplayData()
-    {
-        Console.WriteLine(Name + Age);
-    }
-}
-
-// creating a new Employee object by calling the parameterized constructor
-Employee abhishekluv = new Employee(3,4);
-</code></pre>
-
-<p>When an object of a class is created using the <code>new</code> keyword the constructor method is called to initialize values or get and set private variables using public method parameters and arguments.</p>
-
-<p>In the above given example <code>public Employee(string name, int age)</code> is a parameterized constructor which has two parameters <code>string name</code> and <code>int age</code>.</p>
-
-<h2>This keyword</h2>
-
-<p><code>this</code> keyword is used to access the class level data members, variables and methods.</p>
-
-<p>For example: In the above code, the <code>public Employee(string name, int age)</code> method takes in two arguments or data values for the two defined parameters <code>string name</code> and <code>int age</code>. At the time of object creation these values are applied to the member variables within the class using the this keyword <code>this.Name</code> and <code>this.Age</code>.</p>
-
-<p>Why use <code>this</code> keyword? Because it makes it easy to differentiate between the declared method parameters and the class member variables with the same name. <code>name</code> is the parameter declared for the <code>DisplayData</code> methods and <code>this.Name</code> is used to access the class level member variables.</p>
-
-<h2>Methods with returns values</h2>
-
-<p>Ever wondered why the hell you keep seeing the <code>void</code> keyword everywhere when programming in C#.</p>
-
-<p>Let&rsquo;s talk about it.</p>
-
-<p>Every method performs actions using the data variables and members defined within a class. After performing those actions the method has to return the results of those actions or sometimes not return anything.</p>
-
-<p><code>void</code> keyword is used when you don&rsquo;t want a method to return anything to the calling method/function. And when you want to return something using a method then you will have to specify the return data type of that method.</p>
-
-<p><strong>Example:</strong></p>
-
-<p><em>Note: Method names used in these examples are for educational purpose only. :P</em></p>
-
-<pre><code>Public void IDontReturnAnything(){
-    Console.WriteLine("Hello");    
-}
-
-Public string IReturnAStringValue()
-    return "Hello";
-}
-
-Public string IReturnAIntValue()
-    return 143;
-}
-</code></pre>
-
-<h2>Methods with Parameters and Arguments</h2>
-
-<p>One or more variables declared with the Method Signature are called Parameters.</p>
-
-<p>For example:</p>
-
-<p><code>public double FindArea(int length, int width) { }</code></p>
-
-<p>In the above given example <code>int length</code> and <code>int width</code> are parameters declared for the <code>FindArea()</code></p>
-
-<p>When a method is declared with parameters then it means that method can accept input values or in other words it can accept arguments.</p>
-
-<p>The values which we pass to method parameters are called <code>Arguments</code>.</p>
-
-<p>While calling the <code>FindArea()</code> method we can pass the values as argument which the <code>FindArea()</code> method can use for processing like this <code>FindArea(3,4)</code>.</p>
-
-<h2>this Keyword</h2>
-
-<p><code>this</code> keyword in C# is used to access the class level members and data.</p>
-
-<p>In a C# class there are different types of variables.</p>
-
-<ul>
-<li>Class level variables (Global to the whole class)</li>
-<li>Method level parameter variables (Local to that method only which a method can return)</li>
-</ul>
-
-
-<p>For example:</p>
-
-<p>You have declared a class level variable as <code>int age;</code> and method level parameter variable as <code>int age</code>.</p>
-
-<p>To access class level age use <code>this.age</code> and for method level parameter variable use <code>age</code>.</p>
-
-<pre><code>public class Employee
-{
-    public int age;
-
-    // this is a parameterized constructor with age as parameter and initializing the class level age variable 
-    // using the this keyword
-    public Employee(int age)
-    {
-        // Here we are using this.age to access the class level variables and then assigning the input value of age
-       // coming from the age parameter of the constructor
-        this.age = age;
-    }
-
-    public DisplayEmployeeAage()
-    {
-        Console.WriteLine("Age is = " + age);
-    }
-}
-</code></pre>
-
-<h2>Object-Oriented Programming</h2>
-
-<p>Any programming language which follows 3 rules of OOP is called a Object-Oriented Programming Language.</p>
-
-<p><strong>Rules for OOP:</strong></p>
-
-<ul>
-<li>Encapsulation : Data Hiding</li>
-<li>Polymorphism : Overloading and Overriding</li>
-</ul>
-
-
-<p>Let&rsquo;s discuss each of these types in detail.</p>
-
-<p><strong>Encapsulation</strong></p>
-
-<p>Encapsulation is the concept of writing programs with data and methods that act on the data.</p>
-
-<p>With encapsulation also comes another concept called Data Hiding. In data hiding we keep the data safe within the class and only accessible within the class. Now, that doesn&rsquo;t mean we won’t be able to access the class data outside it. Yes we can access the data using public methods declared within a class.</p>
-
-<p>Data hiding concept can be applied by using access modifiers in front of classes, member variables and methods.</p>
-
-<p><em>Commonly used access modifiers:</em></p>
-
-<ul>
-<li>public : accessible at class, sub-class and project level</li>
-<li>protected : accessible at class and sub-class level</li>
-<li>private : accessible at class level only</li>
-</ul>
-
-
-<p>Example:</p>
-
-<pre><code>public class Sample
-{
-    private int age;
-    public int salary { get; private set; }
-
-    public int DisplaySalary()
-    {
-        return this.salary;
-    }
-
-    public void SetData(int age, int salary)
-    {
-        this.age = age;
-        this.salary = salary;
-    }
-
-    public void DisplayData()
-    {
-        Console.Write("age is = " + age);
-        Console.Write("salary is = " + salary);
-    }
-}
-
-public class TestSample
-{
-    static void Main()
-    {
-        Sample sample = new Sample();
-        sample.SetData(2, 333);
-        sample.DisplayData();
-
-        //the age variable of the sample cannot be accessed here
-        // is inaccessible due to protection level
-        // sample.age;
-        // this is encapsulation and data hiding
-
-        Console.Write("\n");
-
-        Console.Write("salary is = " + sample.DisplaySalary());
-
-        Console.ReadLine();
-    }
-}
-</code></pre>
-
-<p>In order to implement data hiding we can use <code>getter</code> and <code>setter</code> to limited read and write access to a particular data member in a class.</p>
-
-<p>In this example we have used <code>get</code> and <code>private set</code> for the salary property <code>public int salary { get; private set; }</code>.</p>
-
-<p><code>get</code> means <code>salary</code> property can be accessed outside of the <code>Sample</code> class and <code>private set</code> means <code>salary</code> property data can be set within the <code>Sample</code> class only and not from outside of the class.</p>
-
-<p><strong>Polymorphism</strong></p>
-
-<p>Polymorphism allows us to define multiple functions/methods/subroutines with the same name which are differentiated by their passing parameters and arguments. It is also known as method overloading or function overloading.</p>
-
-<p>Example:</p>
-
-<p>Let define a <code>Student</code> class with three methods with same name.</p>
-
-<pre><code>public class Student{
-
-    public string name;
-    public int age;
-
-    public Student(){
-        // this is the constructor
-    }
-
-    public void DisplayData(string name){
-        Console.WriteLine("Student Name is :" + name);
-    }
-
-    public void DisplayData(int age){
-        Console.WriteLine("Student Age is: " + age);
-    }
-
-}
-</code></pre>
-
-<p>Here, we are creating an instance of the <code>Student</code> class and calling the <code>DisplayData</code> method using different argument values. In this case, we are passing a &ldquo;Abhishek&rdquo; as an argument for the <code>name</code> parameter and 27 as an argument for the <code>age</code> parameter. To make it simple to understand when we pass a name then the first <code>DisplayData</code> method will be called and for age the second <code>DisplayData</code> method will be called. This is Method Overloading.</p>
-
-<pre><code>class TestStudent
-{
-    static void Main()
-    {
-        Student newStudent = new Student();
-
-        newStudent.DisplayData("Abhishek");
-        newStudent.DisplayData(27);
-    }
-}
-</code></pre>
-
-<p><em>Day 2 over</em></p>
-
-<p>Stay Tuned.</p>
-
-<p>Take Care!</p>
-
-<p>Abhishek Luv</p>
+<p>If you are interested then please ping me an email at <a href="&#109;&#x61;&#105;&#108;&#x74;&#111;&#x3a;&#x61;&#98;&#104;&#105;&#x73;&#104;&#x65;&#107;&#x40;&#97;&#x62;&#104;&#105;&#115;&#x68;&#101;&#x6b;&#x6c;&#x75;&#x76;&#46;&#x69;&#110;&#46;">&#97;&#x62;&#x68;&#x69;&#x73;&#104;&#101;&#x6b;&#64;&#x61;&#x62;&#104;&#105;&#115;&#104;&#101;&#x6b;&#108;&#x75;&#x76;&#x2e;&#x69;&#110;&#x2e;</a></p>
 ]]></content>
   </entry>
   

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Git | Abhishek Luv]]></title>
+  <link href="http://www.abhishekluv.in/blog/categories/git/atom.xml" rel="self"/>
+  <link href="http://www.abhishekluv.in/"/>
+  <updated>2016-10-11T21:37:35+05:30</updated>
+  <id>http://www.abhishekluv.in/</id>
+  <author>
+    <name><![CDATA[Abhishek Luv]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Generating SSH Key for GitHub Using Git Extensions]]></title>
+    <link href="http://www.abhishekluv.in/blog/2016/10/11/generating-ssh-key-for-github-using-git-extensions/"/>
+    <updated>2016-10-11T21:06:37+05:30</updated>
+    <id>http://www.abhishekluv.in/blog/2016/10/11/generating-ssh-key-for-github-using-git-extensions</id>
+    <content type="html"><![CDATA[<p>This step-by-step tutorial assumes that you have already installed Git Extensions on your computer.</p>
+
+<p>Using GitHub via HTTPS with Git Extensions can become pretty boring. SSH to the resuce.</p>
+
+<!-- more -->
+
+
+<p><strong>Step 1: Click on Tools -> Generate or Import Key</strong></p>
+
+<p><img src="http://i.imgur.com/V62YvcO.png" alt="" /></p>
+
+<p><strong>Step 2 : Click on Generate</strong></p>
+
+<p><em>Note : Move the mouse over the blank area to generate randomness when generating the SSH key</em></p>
+
+<p><img src="http://i.imgur.com/JwjCACx.png" alt="" /></p>
+
+<p><strong>Step 3 : Click on Save Private Key</strong></p>
+
+<p><em>Note : Click Yes for the passphrase message</em></p>
+
+<p><img src="http://i.imgur.com/EsI9Tmg.png" alt="" /></p>
+
+<p><strong>Step 4 : Save the SSH Private key with .ppk extension</strong></p>
+
+<p><img src="http://i.imgur.com/6WfN4mj.png" alt="" /></p>
+
+<p><strong>Step 5 : Copy the SSH Key to the clipboard</strong></p>
+
+<p><img src="http://i.imgur.com/n8TfmR2.png" alt="" /></p>
+
+<p><strong>Step 6 : Setup the SSH key with GitHub Settings</strong></p>
+
+<ul>
+<li>Visit SSH Key settings URL : <a href="https://github.com/settings/keys">https://github.com/settings/keys</a></li>
+<li>click New SSH Key</li>
+<li>click Add SSH Key</li>
+</ul>
+
+
+<p><img src="http://i.imgur.com/3PX9Dyc.png" alt="" /></p>
+
+<p>Take Care!</p>
+
+<p>Peace</p>
+
+<p>Abhishek Luv</p>
+]]></content>
+  </entry>
+  
+</feed>

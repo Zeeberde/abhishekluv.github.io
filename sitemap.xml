@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://www.abhishekluv.in/blog/2016/10/11/generating-ssh-key-for-github-using-git-extensions/</loc>
+<lastmod>2016-10-11T21:06:37+05:30</lastmod>
+</url>
+<url>
 <loc>http://www.abhishekluv.in/blog/2016/09/22/step-by-step-learning-plan-for-csharp-and-aspnet-mvc-framework/</loc>
 <lastmod>2016-09-22T15:21:39+05:30</lastmod>
 </url>
@@ -575,5 +579,17 @@
 </url>
 <url>
 <loc>http://www.abhishekluv.in/blog/categories/learning-plan/</loc>
+</url>
+<url>
+<loc>http://www.abhishekluv.in/blog/categories/ssh-key/</loc>
+</url>
+<url>
+<loc>http://www.abhishekluv.in/blog/categories/github/</loc>
+</url>
+<url>
+<loc>http://www.abhishekluv.in/blog/categories/git/</loc>
+</url>
+<url>
+<loc>http://www.abhishekluv.in/blog/categories/git-extensions/</loc>
 </url>
 </urlset>
