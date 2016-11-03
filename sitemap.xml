@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://www.abhishekluv.in/blog/2016/10/29/conducted-a-1-day-git-and-github-training-for-identlogic-systems/</loc>
+<lastmod>2016-10-29T14:42:16+05:30</lastmod>
+</url>
+<url>
 <loc>http://www.abhishekluv.in/blog/2016/10/11/generating-ssh-key-for-github-using-git-extensions/</loc>
 <lastmod>2016-10-11T21:06:37+05:30</lastmod>
 </url>
